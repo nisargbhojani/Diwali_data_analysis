@@ -1,0 +1,23 @@
+Summary about Dataset 
+
+Data consist of a Company's Diwali Sales, There are almost 11251 Rows of data across 15 colns
+
+- Out of 15 colns, 2 colns are Null
+
+- Data Consists of 
+- - User_ID which is Primary Key enabled
+- - Cust_name Name of customer 
+- - Product_ID Which product is bought by the customer
+- - Gender Customer is Male or Female
+- - Age Group Age is divided into serveral Ranges 
+- - Age Age of customer
+- - Marital_Status is customer Married or Not 
+- - State of customer
+- - Zone from which zone of India customer belongs
+- - Occupation of Customer
+- - Product_Category Which Type of product is bought by customer
+- - Orders no. of order placed by a customer
+- - Amount how much Product costs
+- - Status its Null coln
+- - unnamed1 its null coln 
+
