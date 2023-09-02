@@ -1,4 +1,4 @@
-Summary about Dataset 
+Summary about Dataset: 
 
 Data consist of a Company's Diwali Sales, There are almost 11251 Rows of data across 15 colns
 
@@ -21,3 +21,11 @@ Data consist of a Company's Diwali Sales, There are almost 11251 Rows of data ac
 - - Status its Null coln
 - - unnamed1 its null coln 
 
+
+Outcome/Process:
+
+- Data Analysis was done in three parts, Importing Data, Cleainig Data and Performing EDA.
+- Performed data cleaning and manipulation
+- Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
+- Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
+- Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
